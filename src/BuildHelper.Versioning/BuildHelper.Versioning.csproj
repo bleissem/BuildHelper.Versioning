@@ -2,6 +2,13 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Version>0.0.1</Version>
+    <Copyright>2020 bleissem.com</Copyright>
+    <PackageLicenseExpression>GPL-2.0-only</PackageLicenseExpression>
+    <Authors>Alexander Bleissem</Authors>
+    <Company>bleissem.com</Company>
+    <PackageProjectUrl>https://github.com/bleissem/BuildHelper.Versioning</PackageProjectUrl>
   </PropertyGroup>
 
   <ItemGroup>
